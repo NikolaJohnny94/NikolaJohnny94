@@ -2,7 +2,7 @@
 <img align="left"src="https://cdn.icon-icons.com/icons2/1603/PNG/512/people-avatar-head-man-male-beard-hypster_108541.png" width="40px" height="40px">Hello World 👋 </p><br/>
 
 <p align="left">
-<img align="left" src="https://cdn.icon-icons.com/icons2/1076/PNG/512/computer1_77902.png" width="40px" height="40px" alt="Gmail Icon" title="Gmail"/>I am Web Developer with the main focus on  MEVN stack (MongoDB, Express.js, Vue.js, Node.js).</p><br/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/1076/PNG/512/computer1_77902.png" width="40px" height="40px" alt="Gmail Icon" title="Gmail"/>I am Web Developer with the main focus on  MEVN stack (MongoDB, Express.js, Vue.js, Node.js)</p><br/>
 
 <p align="left">
 <img align="left" src="https://cdn.icon-icons.com/icons2/2474/PNG/512/ingenuity_wit_book_idea_light_bulb_learn_learning_icon_149691.png" width="40px" height="40px"/>I am currently learning Nuxt.js, Python, Flask, more advanced stuff about Epxress.js and Vue.js</p> <br/>
